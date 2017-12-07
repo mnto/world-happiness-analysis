@@ -13,5 +13,5 @@ Here's our blog post with our findings and analysis: [What Makes Us Happy](https
 We created 7 interactive maps with the 2015 data to analyze the trend and correlation between each of the factors versus the happiness score for each country.
 
 To see the interactive maps, you need to fire up a server on your local machine. Follow these steps:
-* Type ```python -m SimpleHTTPServer``` into your console. This will automatically set the port to 8000. If you want to specify a port, you can type ```python -m SimpleHTTPServer <port number>``` instead
+* Type ```python -m SimpleHTTPServer``` into your terminal. This will automatically set the port to 8000. If you want to specify a port, you can type ```python -m SimpleHTTPServer <port number>``` instead
 * Open your browser and type ```localhost:8000//filename```. For example, if you want to look at the graph of GDP vs. Happiness Score, replace ```filename``` with ```gdp.html```.
