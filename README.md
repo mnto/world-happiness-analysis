@@ -14,4 +14,4 @@ Here's our blog post with our findings and analysis: [What Makes Us Happy](https
 ## Interactive Scatterplots
 We created 7 interactive maps with the 2015 data to analyze the trend and correlation between each of the factors versus the happiness score for each country.
 
-To see the interactive maps, add the variable you would like to see against happiness score to the URL. For example, to see GDP against happiness score, the URL is: (https://mnto.github.io/world-happiness-analysis/gdp)
+To see the interactive maps, add the variable you would like to see against happiness score to the URL. For example, to see GDP against happiness score, the URL is: https://mnto.github.io/world-happiness-analysis/gdp
