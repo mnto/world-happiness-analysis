@@ -1,0 +1,159 @@
+Country,Happiness Score,Freedom
+Afghanistan,3.575,0.23414
+Albania,4.959,0.35733
+Algeria,5.605,0.28579
+Angola,4.033,0.10384
+Argentina,6.574,0.44974
+Armenia,4.35,0.19847
+Australia,7.284,0.65124
+Austria,7.2,0.62433
+Azerbaijan,5.212,0.3703
+Bahrain,5.96,0.45492
+Bangladesh,4.694,0.4082
+Belarus,5.813,0.37938
+Belgium,6.937,0.5845
+Benin,3.34,0.4845
+Bhutan,5.253,0.53206
+Bolivia,5.89,0.57414
+Bosnia and Herzegovina,4.949,0.09245
+Botswana,4.332,0.49495
+Brazil,6.983,0.49049
+Bulgaria,4.218,0.30587
+Burkina Faso,3.587,0.39493
+Burundi,2.905,0.1185
+Cambodia,3.819,0.66246
+Cameroon,4.252,0.49309
+Canada,7.427,0.63297
+Central African Republic,3.678,0.48879
+Chad,3.667,0.23501
+Chile,6.67,0.44132
+China,5.14,0.51697
+Colombia,6.477,0.53466
+Comoros,3.956,0.22917
+Congo (Brazzaville),3.989,0.41466
+Congo (Kinshasa),4.517,0.22605
+Costa Rica,7.226,0.63376
+Croatia,5.759,0.25883
+Cyprus,5.689,0.40672
+Czech Republic,6.505,0.46364
+Denmark,7.527,0.64938
+Djibouti,4.369,0.46074
+Dominican Republic,4.885,0.57672
+Ecuador,5.975,0.48574
+Egypt,4.194,0.17288
+El Salvador,6.13,0.4035
+Estonia,5.429,0.44888
+Ethiopia,4.512,0.4345
+Finland,7.406,0.64169
+France,6.575,0.55011
+Gabon,3.896,0.31914
+Georgia,4.297,0.40577
+Germany,6.75,0.61477
+Ghana,4.633,0.42342
+Greece,4.857,0.07699
+Guatemala,6.123,0.57733
+Guinea,3.656,0.37725
+Haiti,4.518,0.24425
+Honduras,4.788,0.40148
+Hong Kong,5.474,0.59608
+Hungary,4.8,0.32112
+Iceland,7.561,0.62877
+India,4.565,0.39786
+Indonesia,5.399,0.46611
+Iran,4.686,0.30033
+Iraq,4.677,0
+Ireland,6.94,0.61777
+Israel,7.278,0.41319
+Italy,5.948,0.26236
+Ivory Coast,3.655,0.46866
+Jamaica,5.709,0.50442
+Japan,5.987,0.49615
+Jordan,5.192,0.40661
+Kazakhstan,5.855,0.51649
+Kenya,4.419,0.42215
+Kosovo,5.589,0.24749
+Kuwait,6.295,0.55499
+Kyrgyzstan,5.286,0.43477
+Laos,4.876,0.59591
+Latvia,5.098,0.29671
+Lebanon,4.839,0.33916
+Lesotho,4.898,0.31767
+Liberia,4.571,0.28531
+Libya,5.754,0.41668
+Lithuania,5.833,0.21342
+Luxembourg,6.946,0.61583
+Macedonia,5.007,0.33457
+Madagascar,3.681,0.19184
+Malawi,4.292,0.43054
+Malaysia,5.77,0.53024
+Mali,3.995,0.38857
+Malta,6.302,0.60365
+Mauritania,4.436,0.24232
+Mauritius,5.477,0.56066
+Mexico,7.187,0.48181
+Moldova,5.889,0.32818
+Mongolia,4.874,0.43626
+Montenegro,5.192,0.1826
+Morocco,5.013,0.41691
+Mozambique,4.971,0.34037
+Myanmar,4.307,0.44017
+Nepal,4.514,0.38282
+Netherlands,7.378,0.61576
+New Zealand,7.286,0.63938
+Nicaragua,5.828,0.55475
+Niger,3.845,0.47692
+Nigeria,5.268,0.34334
+North Cyprus,5.695,0.49027
+Norway,7.522,0.66973
+Oman,6.853,0.63274
+Pakistan,5.194,0.12102
+Palestinian Territories,4.715,0.24499
+Panama,6.786,0.5421
+Paraguay,5.878,0.53899
+Peru,5.824,0.41496
+Philippines,5.073,0.62545
+Poland,5.791,0.53122
+Portugal,5.102,0.51469
+Qatar,6.611,0.6404
+Romania,5.124,0.35068
+Russia,5.716,0.36679
+Rwanda,3.465,0.59201
+Saudi Arabia,6.411,0.31048
+Senegal,3.904,0.36772
+Serbia,5.123,0.20107
+Sierra Leone,4.507,0.4084
+Singapore,6.798,0.54252
+Slovakia,5.995,0.31751
+Slovenia,5.848,0.60855
+Somaliland region,5.057,0.46582
+South Africa,4.642,0.33207
+South Korea,5.984,0.33208
+Spain,6.329,0.45951
+Sri Lanka,4.271,0.53726
+Sudan,4.55,0.10081
+Suriname,6.269,0.59657
+Swaziland,4.867,0.30658
+Sweden,7.364,0.6598
+Switzerland,7.587,0.66557
+Syria,3.006,0.15684
+Taiwan,6.298,0.3974
+Tajikistan,4.786,0.47216
+Tanzania,3.781,0.32878
+Thailand,6.455,0.55664
+Togo,2.839,0.36453
+Trinidad and Tobago,6.168,0.55884
+Tunisia,4.739,0.26268
+Turkey,5.332,0.22815
+Turkmenistan,5.548,0.4761
+Uganda,3.931,0.45727
+Ukraine,4.681,0.25123
+United Arab Emirates,6.901,0.64157
+United Kingdom,6.867,0.59625
+United States,7.119,0.54604
+Uruguay,6.485,0.60362
+Uzbekistan,6.003,0.65821
+Venezuela,6.81,0.42908
+Vietnam,5.36,0.59444
+Yemen,4.077,0.35571
+Zambia,5.129,0.48827
+Zimbabwe,4.61,0.25861
